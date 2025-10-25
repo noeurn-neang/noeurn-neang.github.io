@@ -28,8 +28,8 @@ I specialize in creating efficient, scalable solutions, with a knack for workflo
 - **Tech Stack**: [E.g., Python, pandas]
 - **Repo**: [Link to repo]
 
-## 📜 Privacy Policy
-For projects using Google APIs (like Trend Watcher), see my [Privacy Policy](/privacy.html) to understand how I handle data responsibly.
+## 📜 N8N Privacy Policy
+For projects using Google APIs (like Trend Watcher), see my [Privacy Policy](/n8n-privacy.html) to understand how I handle data responsibly.
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/neang-noeurn-040743b5/)
