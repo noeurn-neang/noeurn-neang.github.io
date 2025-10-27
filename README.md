@@ -37,7 +37,7 @@
   - 🔭 Currently working on automation workflows with n8n and full-stack web projects<br>
   - 🌟 Skilled in real-time systems, queue-based architectures, and monorepo management<br>
   - ⚡ In my free time, I enjoy playing soccer, volleyball, and contributing to open-source<br>
-  - 📜 View my <a href="https://noeurn-neang.github.io/privacy.html">Privacy Policy</a> for API-driven projects
+  - 📜 View my <a href="https://noeurn-neang.github.io/privacy.html">Privacy Policy</a> and <a href="https://noeurn-neang.github.io/terms.html">Terms of Use</a> for API-driven projects
 </p>
 
 ###
@@ -189,7 +189,9 @@
 ###
 
 <p align="left">
+  - 🌐 Portfolio: <a href="https://noeurn-neang.github.io">noeurn-neang.github.io</a><br>
   - 📜 Privacy Policy: <a href="https://noeurn-neang.github.io/privacy.html">noeurn-neang.github.io/privacy.html</a><br>
+  - 📝 Terms of Use: <a href="https://noeurn-neang.github.io/terms.html">noeurn-neang.github.io/terms.html</a><br>
   - 📧 Email: <a href="mailto:noeurnnneang@gmail.com">noeurnnneang@gmail.com</a><br>
   - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/neang-noeurn-040743b5">Noeurn Neang</a>
 </p>
